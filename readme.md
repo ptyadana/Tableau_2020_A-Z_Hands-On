@@ -7,6 +7,9 @@ Compilation of Tableau projects for data analysis, data analytics and data visua
 ## Live Demo
 + [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/Tableau2020A-ZHands-OnTableauTrainingForDataScienceProjects/Tableau2020A-ZHands-OnTableauTrainingForDataScienceProjects)
 
+![Project Screenshot](https://raw.githubusercontent.com/ptyadana/Tableau_2020_A-Z_Hands-On/master/screenshot.png)
+
+
 ## Datasets
 + [Practice Datasets](https://www.superdatascience.com/pages/tableau)
 
