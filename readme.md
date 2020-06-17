@@ -19,18 +19,39 @@ Compilation of Tableau projects for data analysis, data analytics and data visua
 + Long-Term-Unemployment-Statistics
 + Amazing Mart EU
 + Airline-Comparison
++ UK Bank Customers
++ Personal Vehicle SalesGlobal
 
 ## For exploring the following questions and points.
+Super Store
 + Profits by States : What were the profits and losses of Sales across Regions? 
 + Total Sales by SalesRep: Who was the best SalesRep per Region? This is for Annual Bonus Analysis.
+US Unemployment Data
 + US Unemployment by Gender : What was the long term unemployment between different Genders?
-+ US Unemployment by Age Groups : What was the long term unemployment across different Age Groups? 
++ US Unemployment by Age Groups : What was the long term unemployment across different Age Groups?
+Amazing Mart EU 
 + Profit Margin by Countries: What was the profit margin for countries over year?
 + Profit Margin per Customer: What was the profit margin per each customer?
 + Profit Margin Dashboard
+Airline Data
 + Airlines Revenue Comparison: What were the revenues for two different airlines?
 + Sales Vs Target by Categories : What are Sales Vs Target by each Category?
 + Excess of Target by Category : Which Category exceeds or short of Target Sales?
+UK Bank Customers
++ UK Bank Customers - Gender Distribution
++ UK Bank Customers - Age Distribution
++ UK Bank Customers - Balance Distribution
++ UK Bank Customers - Job Classifications
++ UK Bank Customer Dashboard
++ Insights for UK Bank Customer represented with Storyline.
+----
++ Popularity of Bank by % of customer by region?
++ Which region of customer are richest?
++ Are customer white color job wealthier than blue or other color jobs?
++ Which Region comes the wealthier customer?
+----
+
+
 
 
 ## Acknowledgements
