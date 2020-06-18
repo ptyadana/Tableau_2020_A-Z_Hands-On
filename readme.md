@@ -52,6 +52,12 @@ UK Bank Customers
 + Are customer white color job wealthier than blue or other color jobs?
 + Which Region comes the wealthier customer?
 ----
+Laundry Pick up service startup
++ Identify which of the two sales regions is performing better (outperforms the other in 2 of 3 metrics)
++ a) AVG Revenue per city
++ b) AVG Marketing spend per city (less is better)
++ c) AVG ROMI per city (revenue / marketing spend)
++ Identify which of the 10 new locations have the best potential for the company to invest more funds into marketing.
 
 
 
