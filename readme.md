@@ -59,11 +59,12 @@ Laundry Pick up service startup
 + c) AVG ROMI per city (revenue / marketing spend)
 + Identify which of the 10 new locations have the best potential for the company to invest more funds into marketing.
 ----
-Working with differnt types of files (PDFs, Spatial files)
-+ New York City Park and its Incidents
++ New York City Park & Incidents Analysis
 ----
-
-
+New York State Salary Analysis
++ Average Annual Salary by County dispalyed on a map
++ Top 5 highest earning industries by County
++ Time series analysis of average annual salary by County
 
 ## Acknowledgements
 + [Tableau 2020 A-Z:Hands-On Tableau Training For Data Science!](https://www.udemy.com/course/tableau10/)
