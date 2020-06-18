@@ -58,7 +58,10 @@ Laundry Pick up service startup
 + b) AVG Marketing spend per city (less is better)
 + c) AVG ROMI per city (revenue / marketing spend)
 + Identify which of the 10 new locations have the best potential for the company to invest more funds into marketing.
-
+----
+Working with differnt types of files (PDFs, Spatial files)
++ New York City Park and its Incidents
+----
 
 
 
